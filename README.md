@@ -16,7 +16,7 @@ I like building software that is useful, testable, and a little bit playful.
 | Project | Focus |
 | --- | --- |
 | [yangcheng-app](https://github.com/lanselylee/yangcheng-app) | TypeScript application development |
-| [leetcode-notes-xiaomeng-](https://github.com/lanselylee/leetcode-notes-xiaomeng-) | Daily algorithm practice and Python problem solving |
+| [leetcode-learning-system](https://github.com/lanselylee/leetcode-learning-system) | Algorithm practice, failure logs, and spaced repetition review |
 | [Sudoku Game](https://github.com/lanselylee/-Junrui---Duan-_-Xiaomeng---Li--Project2) | React, Context API, Vite, and game logic |
 | [pokemon-collection-app](https://github.com/lanselylee/pokemon-collection-app) | Java application design and object-oriented programming |
 | [My_World](https://github.com/lanselylee/My_World) | Personal website and frontend experimentation |
