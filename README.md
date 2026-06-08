@@ -41,5 +41,5 @@ I like building software that is useful, testable, and a little bit playful.
 
 ## Links
 
-- Portfolio: [My World](https://my-world-3eqr3yhgw-xiaomenglis-projects.vercel.app/)
+- Portfolio: [My World](https://my-world-lyart-one.vercel.app/)
 - GitHub: [@lanselylee](https://github.com/lanselylee)
