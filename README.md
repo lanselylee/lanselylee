@@ -15,6 +15,7 @@ I like building software that is useful, testable, and a little bit playful.
 
 | Project | Focus |
 | --- | --- |
+| [ai-video-template-engine](https://github.com/lanselylee/ai-video-template-engine) | AI video template extraction, FFmpeg rendering, and multimodal workflow design |
 | [yangcheng-app](https://github.com/lanselylee/yangcheng-app) | TypeScript application development |
 | [leetcode-learning-system](https://github.com/lanselylee/leetcode-learning-system) | Algorithm practice, failure logs, and spaced repetition review |
 | [Sudoku Game](https://github.com/lanselylee/-Junrui---Duan-_-Xiaomeng---Li--Project2) | React, Context API, Vite, and game logic |
